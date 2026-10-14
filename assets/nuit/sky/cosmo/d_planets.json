@@ -1,0 +1,1 @@
+{"schemaVersion":1,"type":"square-textured","texture":"cosmo:textures/sky/planets.png","properties":{"layer":8,"blend":"normal","fade":{"duration":24000,"keyFrames":{"11800":0,"13600":1,"22400":1,"23600":0}},"rotation":{"duration":24000,"speed":1.0,"skyboxRotation":true,"axis":{"0":[0.0,0.0,1.0]},"mapping":{"0":[0.0,0.0,0.0]}}}}
